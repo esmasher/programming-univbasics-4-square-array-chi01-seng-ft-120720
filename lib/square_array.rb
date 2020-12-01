@@ -44,6 +44,7 @@ def square_array(array)
     new_array << array[index] * array[index]
     index += 1
   end
+end
  
   new_array
 end
